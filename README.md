@@ -1,6 +1,16 @@
 # Indian-Agriculture-Crop-Production-Trend
 
-•	Title: Indian Agriculture Crop Production Trend
+Objectives
+1 - To find the top 5 crop production in total production in Units (Tonnes)
+2 - To find the Top 5 Crops Production Trends in the last 10 Years 
+3 - To Find the Top 10 States with Higher Areas for Production
+4 - To find which Season production is higher as compared to all seasons
+5 - To find which states produce sugarcanes in large as compared to other states
+6 - To find which top 3 states produce coconut at a high level
+7 - To Find a Comparison of Area vs Production
+8 - Wheat Production  for any state in the last 10  years
+
+Analysis
 
 •	Top 5 Crops Produced: This section lists the top 5 crops produced in India by tonnage. In this view, Wheat, Maize, Potato, Cotton, and Nuts are listed from top to bottom. Wheat has the highest production at 1,139,262,519 tons while Nuts have the lowest production at 475,211,677 tons.
 
